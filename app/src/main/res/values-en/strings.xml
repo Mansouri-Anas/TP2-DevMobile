@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Anas Mansouri SPLASH</string>
+    <string name="info">Welcome! Your contact informations :</string>
+    <string name="password">Password</string>
+    <string name="signout">Signout</string>
+    <string name="signin">Signin</string>
+    <string name="username">Username</string>
+</resources>

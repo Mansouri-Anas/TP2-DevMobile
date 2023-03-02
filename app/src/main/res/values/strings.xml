@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Anas Mansouri SPLASH</string>
+    <string name="title_activity_splash" translatable="false">SplashActivity</string>
+
+
+    <string name="info">Bienvenue! Vos informations du compte sont les suivants : </string>
+    <string name="username"> Nom d\'utilisateur </string>
+    <string name="password">Mot de passe</string>
+    <string name="signout"> Se déconnecter </string>
+    <string name="signin"> Se connecter </string>
+
+
+
+</resources>

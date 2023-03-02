@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Anas Mansouri SPLASH</string>
+    <string name="password">"كلمة المرور "</string>
+    <string name="signout">تسجيل خروج</string>
+    <string name="signin">تسجيل الدخول</string>
+    <string name="info">مرحبا! معلومات حسابك كما يلي:</string>
+    <string name="username">"اسم المستخدم "</string>
+</resources>
